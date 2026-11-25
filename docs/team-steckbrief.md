@@ -24,11 +24,11 @@ https://en.wikipedia.org/wiki/Shango
 | Reviewer      | Prüft jeden Pull Request vor dem Merge             |     |
 
 
-| Rolle         | Week 1        |   |   |  |   ||
-| ---           | ---           |   |   |  |   ||
-| Tech Lead     | DM            |   |   |  |   ||
-| Dokumentation | AC            |   |   |  |   ||
-| Reviewer      | JA            |   |   |  |   ||
+| Rolle         | Week 01 | Week 02 | Week 03 | Week 04 | Week 05 | Week 08 |
+| ---           | ---     | ---     | ---     | ---     | ---     |---      |
+| Tech Lead     | DDM     | ACH     | JPA     | DDM     | ACH     | JPA     |
+| Dokumentation | ACH     | JPA     | DDM     | ACH     | JPA     | DDM     |
+| Reviewer      | JPA     | DDM     | ACH     | JPA     | DDM     | ACH     |
 
 
 
