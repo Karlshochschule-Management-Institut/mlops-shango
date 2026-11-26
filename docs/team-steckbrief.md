@@ -9,11 +9,11 @@ https://en.wikipedia.org/wiki/Shango
 
 ## Mitglieder
 
-| Name              | Stärken                   | Python (1-5) | Git (1-5) | Docker (1-5) | Cloud (1-5) |
-| ---               | ---                       | ---          | ---       | ---          | ---         |
-| ACH               | Machine Learning EDA      | 4            | 4         | 3            | 2           |
-| JPA               | DevOps / Data             | 2            | 4         | 4            | 2           |
-| DDM               | Infrastructure/Ops/Cloud  | 2            | 4         | 4            | 3           |
+| Name           | Stärken                   | Python (1-5) | Git (1-5) | Docker (1-5) | Cloud (1-5) |
+| ---            | ---                       | ---          | ---       | ---          | ---         |
+| ACH            | Machine Learning EDA      | 4            | 4         | 3            | 2           |
+| JPA            | DevOps / Data             | 2            | 4         | 4            | 2           |
+| dm-error (DME) | Infrastructure/Ops/Cloud  | 2            | 4         | 4            | 3           |
 
 ## Rollen (wechseln jede Woche)
 
@@ -26,9 +26,9 @@ https://en.wikipedia.org/wiki/Shango
 
 | Rolle         | Week 01 | Week 02 | Week 03 | Week 04 | Week 05 | Week 08 |
 | ---           | ---     | ---     | ---     | ---     | ---     |---      |
-| Tech Lead     | DDM     | ACH     | JPA     | DDM     | ACH     | JPA     |
-| Dokumentation | ACH     | JPA     | DDM     | ACH     | JPA     | DDM     |
-| Reviewer      | JPA     | DDM     | ACH     | JPA     | DDM     | ACH     |
+| Tech Lead     | DME     | ACH     | JPA     | DME     | ACH     | JPA     |
+| Dokumentation | ACH     | JPA     | DME     | ACH     | JPA     | DME     |
+| Reviewer      | JPA     | DME     | ACH     | JPA     | DME     | ACH     |
 
 
 
