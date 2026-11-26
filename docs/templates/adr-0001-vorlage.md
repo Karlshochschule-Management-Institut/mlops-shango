@@ -1,33 +1,33 @@
-# ADR-0001: [Titel der Entscheidung, z.B. "Vorhersage in Echtzeit statt als Batch"]
+# ADR-0001: [Title of the decision, e.g. "Real-time prediction instead of batch"]
 
-- **Status:** Vorgeschlagen | Angenommen | Abgelöst durch ADR-000X
-- **Datum:**
-- **Beteiligte:**
+- **Status:** Proposed | Accepted | Superseded by ADR-000X
+- **Date:**
+- **Stakeholders:**
 
-## Kontext
+## Context
 
-Welches Problem lösen wir? Welche Rahmenbedingungen gelten (Nutzer, Datenmenge, Latenz, Budget, Datenschutz)?
+Which problem are we solving? What constraints apply (users, data volume, latency, budget, data protection)?
 
-## Entscheidung
+## Decision
 
-Wir entscheiden uns für ... , weil ...
+We decide to ..., because ...
 
-## Betrachtete Alternativen
+## Alternatives Considered
 
-| Option | Vorteile | Nachteile |
+| Option | Advantages | Disadvantages |
 | --- | --- | --- |
 | A: | | |
 | B: | | |
 
-## Konsequenzen
+## Consequences
 
-Was wird dadurch einfacher? Was wird schwieriger? Was müssen wir später erneut prüfen?
+What becomes simpler as a result? What becomes harder? What do we need to re-examine later?
 
 ---
 
-Ideen für Ihren ersten ADR:
+Ideas for your first ADR:
 
-- Batch-Vorhersage oder Echtzeit-API?
-- Welcher Use Case: einer der drei Vorschläge oder ein eigener?
-- Open-Source-Stack oder Managed Cloud-Service?
-- Zufälliger oder zeitlicher Split für die Validierung?
+- Batch prediction or real-time API?
+- Which use case: one of the three suggestions or your own?
+- Open-source stack or managed cloud service?
+- Random or time-based split for validation?
