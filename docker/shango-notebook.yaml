@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+services:
+  power_demand:
+    build:
+      context: ../
+      dockerfile: ./docker/shango-notebook.dockerfile
+      platforms:
+        - "linux/amd64"
+    image: power-demand:latest
+    ports:
+      - 8888:8888
+    platforms:
+      - "linux/amd64"
+    volumes:
+      - ../src/notebooks/:/work/:Z
