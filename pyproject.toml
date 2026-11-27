@@ -1,0 +1,17 @@
+[project]
+name = "shango"
+version = "0.1.0"
+description = "Wie viel Strom braucht Deutschland morgen, Stunde für Stunde?"
+readme = "README.md"
+authors = [
+    { name = "ACH", email = "ACH@nocontact.invalid" },
+    { name = "JPA", email = "JPA@nocontact.invalid" },
+    { name = "dm.error", email = "dm@error.contact" },
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "jupytext>=1.19.7",
+]
