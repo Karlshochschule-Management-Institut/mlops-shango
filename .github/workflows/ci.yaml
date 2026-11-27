@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: 'Integrate our Changes'
+on:
+  push:
+jobs:
+  build-image:
+    runs-on: ubuntu-slim
+    steps:
+      - name: Hello
+        run: echo "Hello, my dear friends!"
