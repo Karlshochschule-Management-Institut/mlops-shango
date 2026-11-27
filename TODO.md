@@ -1,0 +1,8 @@
+- [ ] migrate lab04 folder to root
+- [ ] update/migrate Dockerfile
+- [ ] add ci-cd for docker build
+- [ ] add ci-cd for model train
+- [ ] add ci-cd for model deploy
+- [ ] add code signing
+- [ ] lock main branch and require pull requests
+- [ ] add coding agents directly to repository
