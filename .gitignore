@@ -2,3 +2,4 @@ __pycache__
 .DS_Store
 models/
 lab04/team/notebooks
+.ipynb_checkpoints/
