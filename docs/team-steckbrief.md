@@ -9,11 +9,11 @@ https://en.wikipedia.org/wiki/Shango
 
 ## Mitglieder
 
-| Name           | Stärken                   | Python (1-5) | Git (1-5) | Docker (1-5) | Cloud (1-5) |
-| ---            | ---                       | ---          | ---       | ---          | ---         |
-| ACH            | Machine Learning EDA      | 4            | 4         | 3            | 2           |
-| JPA            | DevOps / Data             | 2            | 4         | 4            | 2           |
-| dm-error (DME) | Infrastructure/Ops/Cloud  | 2            | 4         | 4            | 3           |
+| Name               | Stärken                   | Python (1-5) | Git (1-5) | Docker (1-5) | Cloud (1-5) |
+| ---                | ---                       | ---          | ---       | ---          | ---         |
+| Achabarek (ACH)    | Machine Learning EDA      | 4            | 4         | 3            | 2           |
+| dejpa1905git (JPA) | DevOps / Data             | 2            | 4         | 4            | 2           |
+| dm-error (DME)     | Infrastructure/Ops/Cloud  | 2            | 4         | 4            | 3           |
 
 ## Rollen (wechseln jede Woche)
 
