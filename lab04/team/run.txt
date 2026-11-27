@@ -1,0 +1,13 @@
+podman run --rm -v ./:/work --security-opt label=disable  team-dev:0.1 python pipeline.py
+/work/pipeline.py:60: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  bis = pd.Timestamp(EINSTELLUNGEN["daten_bis"], tz="UTC") + pd.Timedelta(days=1)
+/work/pipeline.py:65: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  if ms(von - pd.Timedelta(weeks=1)) <= ts < ms(bis)]
+
+
+Datenstand: {'quelle': 'SMARD.de (CC BY 4.0), Filter 410; DWD über Bright Sky', 'von': '2025-01-01T00:00:00+00:00', 'bis': '2025-12-31T23:00:00+00:00', 'zeilen': 8760, 'sha256': '236f5c769660a806668c547819edcd845cf57602cd62a8f7f1704342db624036'}
+modell_mape: 0.0614
+modell_rmse: 4344.4847
+naiv_mape: 0.0519
+naiv_rmse: 4030.0086
+Gespeichert: models/modell.pkl und models/modell.json
